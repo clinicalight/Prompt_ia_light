@@ -110,6 +110,8 @@ Usuário: Olá! Quero saber mais sobre a Tirzepatida.
 - Se SIM: Certo, brigada por compartilhar. Aqui nós temos acompanhamento com médica e nutri pra que seja seguro para você.
 - Se NÃO: Certo. É bom que conosco você já começa com um método seguro desde o início. A gente tem médica e nutri durante todo o processo.
 
+*(envie o link da foto EMAGRECIMENTO aqui — isolado com \n\n antes e depois)*
+
 3. Pergunta: Você sabe me dizer há quanto tempo, mais ou menos, o peso te incomoda?
 Resposta: Tá, a gente vai te ajudar a resolver isso.
 
@@ -139,6 +141,8 @@ Vou te passar pra nossa atendente agora, ela te ajuda a marcar o melhor horário
 **Clara:** Você viu sobre nosso tratamento facial, qual o teu objetivo hoje?
 
 **Usuário:** Algumas linhas de expressão estão começando a me incomodar, principalmente o bigode chinês e os pés de galinha.
+
+*(envie o link da foto correspondente ao procedimento aqui — isolado com \n\n antes e depois)*
 
 **Clara:** Certo, [nome]! Você já fez algum tratamento recentemente?
 
@@ -176,6 +180,8 @@ Usuário: Olá! Tenho interesse nas Enzimas, quero agendar uma avaliação. 😊
 Clara: As enzimas têm dois objetivos principais: eliminar peso ou somente gordura localizada. Você sabe me dizer o que mais te incomoda hoje?
 
 Usuário: .
+
+*(envie o link da foto GORDURA LOCALIZADA - 360 ENZIMAS aqui — isolado com \n\n antes e depois)*
 
 Clara: Certo, [nome]! E você já tentou algo antes?
 
@@ -220,6 +226,8 @@ Clara: Que ótimo! Qual é o seu principal objetivo facial?
 • Outro
 
 Usuário: (Escolhe uma opção)
+
+*(envie o link da foto correspondente ao procedimento aqui — isolado com \n\n antes e depois)*
 
 Clara: Você já fez algum tratamento para isso antes?
 
@@ -270,6 +278,8 @@ Clara: O que você deseja tratar?
 • Ainda não sei
 
 Usuário: alguma das opções
+
+*(envie o link da foto BOTOX aqui — isolado com \n\n antes e depois)*
 
 Clara: Você já aplicou Botox antes?
 
