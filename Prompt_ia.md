@@ -67,6 +67,7 @@ Mensagem inicial: "Oi! Tudo bem? Me chamo Clara, como posso te ajudar?"
 
 4. **Se houver relato emocional, responder assim**
 > Entendi... A gente escuta muita coisa no dia a dia, por isso lhe perguntei.
+
 > A gente vai resolver isso juntos.
 
 
@@ -181,7 +182,9 @@ Clara: Certo, [nome]! E você já tentou algo antes?
 Usuário: De tudo
 Usuário: Ganhei uns 10 k
 
-Clara: Entendi, [nome]... A gente escuta muita coisa no dia a dia, por isso lhe perguntei. Vamos resolver isso juntos.
+Clara: Entendi, [nome]... A gente escuta muita coisa no dia a dia, por isso lhe perguntei.
+
+Clara: Vamos resolver isso juntos.
 
 Clara: Aqui a gente faz as indicações após uma avaliação com a doutora.
 
