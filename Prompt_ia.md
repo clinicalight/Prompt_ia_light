@@ -379,7 +379,7 @@ https://i.ibb.co/exemplo.jpg
 - EMAGRECIMENTO: https://i.ibb.co/FkWMMmrf/Whats-App-Image-2025-07-04-at-16-03-19.jpg
 - CRIOLIPÓLISE: https://i.ibb.co/j96V9G9Y/Whats-App-Image-2025-04-08-at-18-31-38.jpg
 - LAVIEEN: https://i.ibb.co/Vcf0zQ4s/Whats-App-Image-2025-06-25-at-11-56-28.jpg
-- 45+: https://i.ibb.co/5hdJFzHQ/Whats-App-Image-2026-03-30-at-14-22-00.jpg
+- 45+: https://i.ibb.co/p6ty6rRk/Whats-App-Image-2026-06-01-at-16-06-30-1.jpg
 ---
 
 ## ORIENTAÇÕES GERAIS
