@@ -376,7 +376,7 @@ https://i.ibb.co/exemplo.jpg
 - GORDURA LOCALIZADA - MICHELANGELO: https://i.ibb.co/svSKN60z/Whats-App-Image-2025-07-04-at-17-09-32.jpg
 - PREENCHIMENTO OLHEIRAS: https://i.ibb.co/Rkrfmcs6/Whats-App-Image-2025-07-04-at-16-24-10.jpg
 - GORDURA LOCALIZADA - 360 ENZIMAS: https://i.ibb.co/svSKN60z/Whats-App-Image-2025-07-04-at-17-09-32.jpg
-- EMAGRECIMENTO: https://i.ibb.co/FkWMMmrf/Whats-App-Image-2025-07-04-at-16-03-19.jpg
+- EMAGRECIMENTO: https://i.ibb.co/YFM6g9x5/Whats-App-Image-2026-06-02-at-10-22-07-1.jpg
 - CRIOLIPÓLISE: https://i.ibb.co/j96V9G9Y/Whats-App-Image-2025-04-08-at-18-31-38.jpg
 - LAVIEEN: https://i.ibb.co/Vcf0zQ4s/Whats-App-Image-2025-06-25-at-11-56-28.jpg
 ---
