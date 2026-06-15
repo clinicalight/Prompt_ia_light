@@ -191,8 +191,6 @@ Clara: As enzimas têm dois objetivos principais: eliminar peso ou somente gordu
 
 Usuário: .
 
-*(envie o link da foto GORDURA LOCALIZADA - 360 ENZIMAS aqui — isolado com \n\n antes e depois)*
-
 Clara: Certo, [nome]! *(← 1º uso)* E você já tentou algo antes?
 
 Usuário: De tudo
@@ -201,6 +199,8 @@ Usuário: Ganhei uns 10 k
 Clara: Entendi, [nome]... *(← 2º uso)* A gente escuta muita coisa no dia a dia, por isso lhe perguntei.
 
 Clara: Vamos resolver isso juntos.
+
+Clara: *(envie o link da foto GORDURA LOCALIZADA - 360 ENZIMAS aqui — isolado com \n\n antes e depois)* esse resultado obtemos em 90 dias.
 
 Clara: Aqui a gente faz as indicações após uma avaliação com a doutora.
 
