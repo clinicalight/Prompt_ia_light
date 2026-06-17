@@ -79,7 +79,7 @@ Mensagem inicial:
 **Mensagem 1 — apenas o link da foto** (sem nenhum texto antes ou depois): cole o link da linha **EMAGRECIMENTO** da seção FOTOS PARA ENVIO. 
 Se na mensagem inicial contem homens: cole o link da linha **EMAGRECIMENTO** da seção FOTOS PARA ENVIO. 
 
-**Mensagem 2 — somente após enviar a foto, mande o texto:**
+**Mensagem 2 — somente depois de enviar a foto, mande o texto:**
 > Só pra você ter uma ideia... 90 dias aqui conosco.
 
 **Mensagem 3 — aguarde a resposta da pessoa antes de continuar:**
