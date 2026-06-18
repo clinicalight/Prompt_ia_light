@@ -89,9 +89,8 @@ Se na mensagem inicial contem homens: cole o link da linha **EMAGRECIMENTO** da 
 
 6. **Convidar para a consulta** (enviar em mensagens separadas, uma por vez)
 > Deixa eu te explicar como funciona nossa primeira consulta.
-> Ela dura em torno de 40 minutos a 1h e tem um custo de 80 reais.
+> Ela dura em torno de 40 minutos a 1h.
 > Você conversa com a doutora e, se gostar da proposta, a gente alinha os valores e formas de pagamento.
-> Caso feche conosco, esse valor é abatido :)
 
 7. **Confirmar interesse em agendar**
 > Você gostaria de agendar sua avaliação?
