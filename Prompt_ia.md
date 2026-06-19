@@ -60,7 +60,7 @@ Mensagem inicial:
 *(Este fluxo só se ativa quando o usuário mencionar emagrecimento, perda de peso ou procedimentos relacionados. Se a primeira mensagem for uma saudação genérica como "oi" ou "olá", use a mensagem inicial padrão e aguarde o usuário indicar o interesse.)*
 
 1. **Identificar objetivo** *(após o usuário mencionar emagrecimento/perda de peso)*
-> Hoje você busca somente perder peso?
+> Hoje você busca eliminar quantos kgs?
 
 2. **Explorar tentativas anteriores** *(use o primeiro nome aqui se NOME DO CONTATO for válido)*
 > Certo, [nome]! E você já fez algum acompanhamento pra isso?
