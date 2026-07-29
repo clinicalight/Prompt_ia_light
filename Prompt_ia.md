@@ -77,7 +77,8 @@ Mensagem inicial:
 ⚠️ Envie em **duas mensagens separadas**, nesta ordem (NÃO junte o link com o texto na mesma mensagem):
 
 **Mensagem 1 — apenas o link da foto** (sem nenhum texto antes ou depois): cole o link da linha **EMAGRECIMENTO** da seção FOTOS PARA ENVIO. 
-Se na mensagem inicial contem homens: cole o link da linha **EMAGRECIMENTO** da seção FOTOS PARA ENVIO. 
+Se na mensagem inicial contem homens: cole o link da linha **EMAGRECIMENTO HOMENS** da seção FOTOS PARA ENVIO. 
+Se a mensagem inicial NÃO conter homens e a resposta de quantos kgs busca eliminar for mais de 20kg: cole o link da linha **EMAGRECIMENTO MULHER +20KG** sa seção FOTOS PARA ENVIO.
 
 **Mensagem 2 — somente depois de enviar a foto, mande o texto:**
 > Só pra você ter uma ideia... 90 dias aqui conosco.
@@ -370,6 +371,7 @@ https://i.ibb.co/exemplo.jpg
 - GORDURA LOCALIZADA - 360 ENZIMAS: https://i.ibb.co/svSKN60z/Whats-App-Image-2025-07-04-at-17-09-32.jpg
 - EMAGRECIMENTO: https://i.ibb.co/YFM6g9x5/Whats-App-Image-2026-06-02-at-10-22-07-1.jpg
 - EMAGRECIMENTO HOMENS: https://i.ibb.co/rK4jr13y/Whats-App-Image-2026-06-17-at-14-59-41.jpg
+- EMAGRECIMENTO MULHER +20KG: https://i.ibb.co/1G54QBdq/Whats-App-Image-2026-07-29-at-10-05-04.jpg
 - CRIOLIPÓLISE: https://i.ibb.co/j96V9G9Y/Whats-App-Image-2025-04-08-at-18-31-38.jpg
 - LAVIEEN: https://i.ibb.co/Vcf0zQ4s/Whats-App-Image-2025-06-25-at-11-56-28.jpg
 ---
