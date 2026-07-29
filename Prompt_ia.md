@@ -125,7 +125,8 @@ Usuário: Olá! Quero saber mais sobre a Tirzepatida.
 
 ⚠️ Envie em **duas mensagens separadas**, nesta ordem (NÃO junte o link com o texto na mesma mensagem):
 
-*(envie o link da foto EMAGRECIMENTO aqui — isolado com \n\n antes e depois) - Se na mensagem inicial contem homens: cole o link da linha **EMAGRECIMENTO** da seção FOTOS PARA ENVIO. 
+*(envie o link da foto EMAGRECIMENTO aqui — isolado com \n\n antes e depois) - 
+Se a mensagem inicial NÃO conter homens e a resposta de quantos kgs busca eliminar for MENOS de 20kg cole o link da linha **EMAGRECIMENTO** da seção FOTOS PARA ENVIO. 
 Se na mensagem inicial contem homens ou se for um homem: cole o link da linha **EMAGRECIMENTO HOMENS** da seção FOTOS PARA ENVIO. 
 Se a mensagem inicial NÃO conter homens e a resposta de quantos kgs busca eliminar for mais de 20kg: cole o link da linha **EMAGRECIMENTO MULHER +20KG** da seção FOTOS PARA ENVIO.
 
