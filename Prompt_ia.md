@@ -166,7 +166,7 @@ Vou te passar pra nossa Dra. agora, ela te ajuda a marcar o melhor horário 😊
 *(Este fluxo só se ativa quando o usuário mencionar CUPOM DE BOTOX. Se a primeira mensagem for uma saudação genérica como "oi" ou "olá", use a mensagem inicial padrão e aguarde o usuário indicar o interesse.)*
 
 1. **Identificar objetivo** *(após o usuário mencionar emagrecimento/perda de peso)*
-> Você viu sobre a nossa campanha de aniversário, onde adquirindo um tratamento corporal de emagrecimento você GANHA um botox. *(aguardar resposta para seguir para o proximo passo)*
+> Você viu sobre a nossa campanha de aniversário, onde adquirindo um tratamento corporal de emagrecimento você GANHA um botox. *(aguardar resposta para seguir para o passo 2)*
 
 > Usuário: "isso, quer saber mais"
 
