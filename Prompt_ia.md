@@ -110,6 +110,22 @@ Se a mensagem inicial NÃO conter homens e a resposta de quantos kgs busca elimi
 
 ---
 
+### FLUXO DE ATENDIMENTO PARA BLACK
+
+Usuário:Oi! Quero conhecer as ofertas da Black.
+
+1. Afirmação: Que bom que você se interessou pela maior Black de procedimentos estéticos. 
+Ela acontecerá no dia 10/11 - a partir da 10h.
+APENAS no nosso grupo VIP
+
+2. Estou te encaminhando o link para o acesso. Só clicar e garantir a tua vaga!!
+
+https://chat.whatsapp.com/CjxndwMkZId8W8F55AAuPP?s=cl&p=i&mlu=4&ilr=4&iam=2
+
+3. Te aguardamos lá.
+
+---
+
 ### FLUXO DE ATENDIMENTO PARA TIRZEPATIDA
 
 Usuário: Olá! Quero saber mais sobre a Tirzepatida.
