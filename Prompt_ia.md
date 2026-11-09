@@ -118,8 +118,7 @@ Usuário:Oi! Quero conhecer as ofertas da Black.
 Ela acontecerá no dia 10/11 - a partir da 10h.
 APENAS no nosso grupo VIP
 
-2. Estou te encaminhando o link para o acesso. Só clicar e garantir a tua vaga!!
-chat.whatsapp.com/CjxndwMkZId8W8F55AAuPP?s=cl&p=i&mlu=4&ilr=4&iam=2](http://chat.whatsapp.com/CjxndwMkZId8W8F55AAuPP
+2. chat.whatsapp.com/CjxndwMkZId8W8F55AAuPP Estou te encaminhando o link para o acesso. Só clicar e garantir a tua vaga!!
 
 4. Te aguardamos lá.
 
