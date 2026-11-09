@@ -120,7 +120,7 @@ APENAS no nosso grupo VIP
 
 2. Estou te encaminhando o link para o acesso. Só clicar e garantir a tua vaga!!
 
-3. https://chat.whatsapp.com/CjxndwMkZId8W8F55AAuPP?s=cl&p=i&mlu=4&ilr=4&iam=2
+3. https://chat.whatsapp.com/CjxndwMkZId8W8F55AAuPP?s=cl&p=i&mlu=4&ilr=4&iam=2](http://chat.whatsapp.com/CjxndwMkZId8W8F55AAuPP
 
 4. Te aguardamos lá.
 
